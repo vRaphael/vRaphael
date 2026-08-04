@@ -3,12 +3,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:312E81,50:6D28D9,100:7C3AED&text=Victor%20Raphael%20de%20Moraes&fontColor=FFFFFF&fontSize=38&fontAlignY=38&desc=Engenheiro%20de%20Software%20%7C%20Desenvolvedor%20Full%20Stack%20%7C%20Entusiasta%20de%20IA&descAlignY=58&descSize=17&animation=fadeIn" alt="Victor Raphael de Moraes" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&lines=Desenvolvedor+de+Software+Pleno;C%23+%7C+.NET+%7C+React+%7C+SQL;Construindo+solu%C3%A7%C3%B5es+corporativas+para+o+varejo;Explorando+LLMs%2C+RAG%2C+MCP+e+Engenharia+de+IA" alt="Animação de apresentação" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=900&lines=Desenvolvedor+de+Software+Pleno;C%23+%7C+.NET+%7C+React+%7C+SQL;Construindo+solu%C3%A7%C3%B5es+de+varejo+corporativas;Explorando+LLMs%2C+RAG%2C+MCP+e+Engenharia+de+IA" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Bacharelado-Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o-6D28D9?style=flat-square&logo=academia&logoColor=white" alt="Ciência da Computação" />
+<img src="https://img.shields.io/badge/B.Sc.-Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o-6D28D9?style=flat-square&logo=academia&logoColor=white" alt="Ciência da Computação" />
 <img src="https://img.shields.io/badge/Faculdade-Grupo%20Anchieta-4F46E5?style=flat-square&logo=bookstack&logoColor=white" alt="Faculdade Grupo Anchieta" />
 <img src="https://img.shields.io/badge/Jundia%C3%AD-S%C3%A3o%20Paulo-7C3AED?style=flat-square&logo=googlemaps&logoColor=white" alt="Jundiaí, São Paulo" />
 
@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/LINKEDIN-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:vraphael.dev@gmail.com">
-  <img src="https://img.shields.io/badge/E--MAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  <img src="https://img.shields.io/badge/EMAIL-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://github.com/vRaphael">
   <img src="https://img.shields.io/badge/GITHUB-312E81?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -39,33 +39,33 @@
 
 </div>
 
-Sobre Mim
+---
 
-Sou Desenvolvedor de Software Pleno na PDA Soluções, com mais de seis anos de experiência profissional na construção, manutenção e evolução de sistemas corporativos para o varejo.
+## Sobre Mim
 
-Minha carreira evoluiu de um estágio em desenvolvimento para uma posição de nível pleno, proporcionando experiência em todo o ciclo de vida do software: análise de requisitos, implementação, depuração, testes, suporte em produção, documentação técnica e comunicação com clientes e equipes internas.
+Sou **Desenvolvedor de Software Pleno na PDA Soluções**, com mais de seis anos de experiência profissional construindo, mantendo e evoluindo software corporativo para o setor de varejo.
 
-Minha principal especialidade está concentrada em C#, .NET, SQL, Oracle e desenvolvimento de produtos full stack, com experiência prática na criação de soluções essenciais ao negócio para gestão de inventário, recebimento, precificação, faturamento, controle de estoque, picking e integrações entre sistemas.
+Minha trajetória evoluiu de um estágio em desenvolvimento até uma posição de engenharia de nível pleno, o que me deu experiência em todo o ciclo de vida do software: análise de requisitos, implementação, depuração, testes, suporte em produção, documentação técnica e comunicação com clientes e equipes internas.
 
-Atuo no desenvolvimento de software com uma mentalidade de engenharia de produto, equilibrando manutenibilidade, desempenho, segurança, usabilidade e impacto no negócio. Também contribuo com a liderança técnica, apoiando outros desenvolvedores, produzindo documentação interna e coordenando a operação de suporte da área de varejo da empresa.
+Minha expertise principal está centrada em **C#, .NET, SQL, Oracle e desenvolvimento full stack de produtos**, com experiência prática na criação de soluções críticas para o negócio nas áreas de gestão de estoque, operações de recebimento, precificação, faturamento, controle de estoque e picking.
 
-Atualmente, estou ampliando meus conhecimentos em Inteligência Artificial e engenharia de software assistida por IA, com foco em LLMs, Geração Aumentada por Recuperação (RAG), Protocolo de Contexto de Modelo (MCP) e Desenvolvimento Orientado por Especificações.
+Abordo o desenvolvimento de software com uma **mentalidade de engenharia de produto**, equilibrando manutenibilidade, performance, segurança, usabilidade e impacto no negócio. Também contribuo com liderança técnica ao apoiar outros desenvolvedores, produzir documentação interna e coordenar a operação de suporte da divisão de varejo da empresa.
 
-Aberto a
+Atualmente estou expandindo minha expertise em **Inteligência Artificial e engenharia de software assistida por IA**, com foco em **LLMs, Retrieval-Augmented Generation, Model Context Protocol e Spec-Driven Development**.
 
-Oportunidades em engenharia de software e desenvolvimento full stack
+### Aberto a
 
-Desenvolvimento de sistemas corporativos e produtos SaaS
+- Oportunidades em engenharia de software e desenvolvimento full stack
+- Sistemas corporativos e desenvolvimento de produtos SaaS
+- Aplicações potencializadas por IA e automação inteligente
+- Desafios técnicos envolvendo escalabilidade, arquitetura e integrações
+- Colaboração com equipes de engenharia orientadas a produto
 
-Aplicações com IA e automação inteligente
+---
 
-Desafios técnicos envolvendo escalabilidade, arquitetura e integrações
+## Stack Tecnológica
 
-Colaboração com equipes de engenharia orientadas a produto
-
-Stack Tecnológica
-
-Linguagens de Programação
+### Linguagens de Programação
 
 <div align="center">
 
@@ -77,7 +77,7 @@ Linguagens de Programação
 
 </div>
 
-Idiomas
+### Idiomas
 
 <div align="center">
 
@@ -87,15 +87,15 @@ Idiomas
 
 </div>
 
-Frontend
+### Frontend
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css&theme=dark" alt="Tecnologias de Frontend" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css&theme=dark" alt="Tecnologias Frontend" />
 
 </div>
 
-Backend e Bancos de Dados
+### Backend e Bancos de Dados
 
 <div align="center">
 
@@ -105,11 +105,11 @@ Backend e Bancos de Dados
 
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-6D28D9?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
 <img src="https://img.shields.io/badge/Oracle-4F46E5?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-<img src="https://img.shields.io/badge/APIs%20REST-7C3AED?style=for-the-badge&logo=fastapi&logoColor=white" alt="APIs REST" />
+<img src="https://img.shields.io/badge/REST%20APIs-7C3AED?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
 
 </div>
 
-Cloud, DevOps e Ferramentas
+### Cloud, DevOps e Ferramentas
 
 <div align="center">
 
@@ -122,287 +122,209 @@ Cloud, DevOps e Ferramentas
 
 </div>
 
-Especialidades em IA / ML
+---
 
-Domínio
+## Expertise em IA / ML
 
-Nível
+| Domínio | Nível | Detalhes |
+|:---|:---:|:---|
+| Large Language Models | Em desenvolvimento | Estudando arquitetura de LLMs, padrões de integração e aplicações práticas em software corporativo. |
+| Retrieval-Augmented Generation | Em desenvolvimento | Explorando recuperação de conhecimento, contextualização e respostas de IA baseadas em dados privados do negócio. |
+| Model Context Protocol | Em desenvolvimento | Construindo conhecimento sobre servidores MCP, ferramentas, recursos e integração IA-sistema. |
+| Engenharia Assistida por IA | Intermediário | Aplicando ferramentas de IA em análise, documentação, arquitetura, depuração e fluxos de desenvolvimento. |
+| Spec-Driven Development | Em desenvolvimento | Explorando especificações estruturadas para guiar implementação assistida por IA e reduzir ambiguidade. |
+| Produtos SaaS Inteligentes | Intermediário | Projetando uma plataforma multi-tenant de gestão financeira com inteligência artificial integrada. |
 
-Detalhes
+---
 
-Grandes Modelos de Linguagem (LLMs)
-
-Em desenvolvimento
-
-Estudo de arquitetura de LLMs, padrões de integração e aplicações práticas em sistemas corporativos.
-
-Geração Aumentada por Recuperação (RAG)
-
-Em desenvolvimento
-
-Exploração de recuperação de conhecimento, contextualização e respostas de IA fundamentadas em dados privados do negócio.
-
-Protocolo de Contexto de Modelo (MCP)
-
-Em desenvolvimento
-
-Desenvolvimento de conhecimento sobre servidores MCP, ferramentas, recursos e integração entre IA e sistemas.
-
-Engenharia Assistida por IA
-
-Intermediário
-
-Aplicação de ferramentas de IA em análise, documentação, arquitetura, depuração e fluxos de desenvolvimento.
-
-Desenvolvimento Orientado por Especificações
-
-Em desenvolvimento
-
-Exploração de especificações estruturadas para orientar implementações assistidas por IA e reduzir ambiguidades.
-
-Produtos SaaS Inteligentes
-
-Intermediário
-
-Desenvolvimento de uma plataforma multi-tenant de gestão financeira com inteligência artificial integrada.
-
-Projetos em Destaque
+## Projetos em Destaque
 
 <details>
-<summary><strong>SaaS WMS — Plataforma Corporativa de Gestão para o Varejo</strong></summary>
+<summary><strong>SaaS WMS — Plataforma Corporativa de Gestão de Varejo</strong></summary>
 
 <br/>
 
-Uma plataforma essencial para operações de armazém e varejo, desenvolvida para apoiar inventário, recebimento, rebaixa de preços, faturamento, gestão de estoque, picking e integrações entre sistemas corporativos.
+Uma plataforma crítica para o negócio, de gestão de estoque e operações de varejo, desenvolvida para apoiar inventário, recebimento, redução de preço, faturamento, gestão de estoque, picking e integrações entre sistemas corporativos.
 
-Categoria
+| Categoria | Detalhes |
+|:---|:---|
+| **Stack** | React, C#, .NET Core, SQL |
+| **Escala** | Mais de 50 clientes, tipicamente operando entre 30 e 150 filiais |
+| **Performance** | Fluxos de alta performance projetados para grandes volumes operacionais |
+| **Segurança** | Controle de acesso de nível corporativo, validação de dados e proteção das operações do negócio |
+| **Impacto** | Plataforma essencial para gestão de estoque e operações de varejo, consolidada como referência de mercado |
+| **Repositório** | Repositório comercial privado |
 
-Detalhes
+### Visão Geral de Engenharia
 
-Tecnologias
+A plataforma suporta fluxos complexos de varejo, onde disponibilidade, consistência de dados e confiabilidade operacional são essenciais. Seus módulos cobrem múltiplas etapas da cadeia de suprimentos e do ciclo de vida das operações de loja, conectando dados de estoque, processos de recebimento, operações de precificação, rotinas de faturamento, gestão de estoque e atividades de picking.
 
-React, C#, .NET Core, SQL
+Minhas contribuições incluem desenvolvimento de funcionalidades, resolução de problemas em produção, suporte N3, análise de banco de dados, desenvolvimento de APIs REST, documentação técnica e melhoria contínua de sistemas usados por clientes com dezenas ou centenas de lojas.
 
-Escala
-
-Mais de 50 clientes, normalmente operando entre 30 e 150 filiais
-
-Desempenho
-
-Fluxos de alto desempenho projetados para grandes volumes operacionais
-
-Segurança
-
-Controle de acesso corporativo, validação de dados e proteção das operações do negócio
-
-Impacto
-
-Plataforma essencial para a gestão de inventário e operações de varejo, consolidada como referência no mercado
-
-Repositório
-
-Repositório comercial privado
-
-Visão Geral de Engenharia
-
-A plataforma oferece suporte a fluxos complexos do varejo, nos quais disponibilidade, consistência dos dados e confiabilidade operacional são essenciais. Seus módulos abrangem diversas etapas da cadeia de suprimentos e do ciclo operacional das lojas, conectando dados de inventário, processos de recebimento, operações de precificação, rotinas de faturamento, gestão de estoque e atividades de picking.
-
-Minhas contribuições incluem desenvolvimento de funcionalidades, resolução de problemas em produção, suporte N3, análise de bancos de dados, desenvolvimento de APIs REST, documentação técnica e melhoria contínua de sistemas utilizados por clientes com dezenas ou centenas de lojas.
-
-O projeto exige atenção contínua à escalabilidade, às regras de negócio, ao desempenho de SQL, à confiabilidade das integrações, à rastreabilidade e à implantação segura em ambientes corporativos.
+O projeto exige atenção contínua a escalabilidade, regras de negócio, performance de SQL, confiabilidade de integrações, rastreabilidade e implantação segura em ambientes corporativos.
 
 </details>
 
 <details>
-<summary><strong>Plataforma Multi-Tenant de Gestão Financeira com IA</strong></summary>
+<summary><strong>Plataforma Multi-Tenant de Gestão Financeira Potencializada por IA</strong></summary>
 
 <br/>
 
-Uma plataforma SaaS multi-tenant em desenvolvimento para a gestão financeira centralizada de empresas, aprimorada com inteligência artificial para auxiliar em análises, automações e tomadas de decisão.
+Uma plataforma SaaS multi-tenant em desenvolvimento para gestão financeira corporativa centralizada, potencializada por inteligência artificial para apoiar análise, automação e tomada de decisão de negócio.
 
-Categoria
+| Categoria | Detalhes |
+|:---|:---|
+| **Stack** | Arquitetura full stack, APIs, bancos de dados relacionais e integrações de IA |
+| **Escala** | Projetada para múltiplas empresas, tenants isolados e operações de negócio escaláveis |
+| **Performance** | Arquitetura focada em acesso eficiente a dados e crescimento sustentável da aplicação |
+| **Segurança** | Isolamento de tenants, autorização controlada e tratamento seguro de informações financeiras |
+| **Impacto** | Objetivo de reduzir operações financeiras manuais e fornecer insights inteligentes de negócio |
+| **Repositório** | Projeto privado |
 
-Detalhes
+### Visão Geral de Engenharia
 
-Tecnologias
+A plataforma está sendo projetada em torno de uma arquitetura multi-tenant capaz de atender múltiplas organizações mantendo isolamento seguro de dados e regras de negócio consistentes.
 
-Arquitetura full stack, APIs, bancos de dados relacionais e integrações com IA
+A solução explora aplicações práticas de LLMs, RAG e automação inteligente para melhorar o controle financeiro, organizar dados operacionais e fornecer assistência contextual a usuários de negócio.
 
-Escala
-
-Projetada para múltiplas empresas, tenants isolados e operações escaláveis
-
-Desempenho
-
-Arquitetura focada em acesso eficiente aos dados e crescimento sustentável da aplicação
-
-Segurança
-
-Isolamento entre tenants, autorização controlada e tratamento seguro de informações financeiras
-
-Impacto
-
-Criada para reduzir operações financeiras manuais e fornecer insights inteligentes para o negócio
-
-Repositório
-
-Projeto privado
-
-Visão Geral de Engenharia
-
-A plataforma está sendo projetada com uma arquitetura multi-tenant capaz de atender diversas organizações, mantendo isolamento seguro dos dados e regras de negócio consistentes.
-
-A solução explora aplicações práticas de LLMs, RAG e automação inteligente para melhorar o controle financeiro, organizar dados operacionais e oferecer assistência contextual aos usuários.
-
-O projeto combina engenharia de produto, arquitetura SaaS, fluxos financeiros, inteligência artificial e desenvolvimento escalável de aplicações.
+O projeto combina engenharia de produto, arquitetura SaaS, fluxos financeiros, inteligência artificial e design de aplicações escaláveis.
 
 </details>
 
-Experiência Profissional
+---
 
-Desenvolvedor de Software Pleno · PDA Soluções
+## Experiência Profissional
 
-Fevereiro de 2023 — Atual
+### Desenvolvedor de Software Pleno · PDA Soluções
 
-Promovido de Desenvolvedor Júnior para Desenvolvedor Pleno, assumindo responsabilidades mais amplas no desenvolvimento de sistemas corporativos, suporte em produção, documentação técnica e orientação da equipe.
+**Fevereiro de 2023 — Presente**
 
-Escopo de Atuação
+Promovido de Desenvolvedor Júnior para Desenvolvedor Pleno, assumindo maior responsabilidade pelo desenvolvimento de software corporativo, suporte em produção, documentação técnica e orientação de equipe.
 
-Desenvolver e manter funcionalidades para sistemas corporativos de varejo.
+#### Escopo de Trabalho
 
-Investigar e solucionar bugs em produção e incidentes técnicos complexos.
+- Desenvolver e manter funcionalidades para software corporativo de varejo.
+- Investigar e resolver bugs de produção e incidentes técnicos complexos.
+- Prestar suporte N3 para operações críticas de clientes.
+- Criar documentação técnica para desenvolvedores e equipes internas.
+- Coordenar a operação de suporte da divisão de varejo da empresa.
+- Construir e manter APIs REST e integrações entre sistemas.
+- Trabalhar com infraestrutura em nuvem e ambientes conteinerizados.
+- Apoiar sistemas envolvendo estoque, recebimento, faturamento, precificação e gestão de estoque.
 
-Prestar suporte N3 para operações críticas dos clientes.
+#### Habilidades
 
-Criar documentação técnica para desenvolvedores e equipes internas.
-
-Coordenar a operação de suporte da área de varejo da empresa.
-
-Desenvolver e manter APIs REST e integrações entre sistemas.
-
-Atuar com infraestrutura em nuvem e ambientes conteinerizados.
-
-Dar suporte a sistemas de inventário, recebimento, faturamento, precificação e gestão de estoque.
-
-Competências
-
-
-
-<br/>
-
-Desenvolvedor de Software Júnior · PDA Soluções
-
-Janeiro de 2021 — Fevereiro de 2023
-
-Promovido de Analista de Desenvolvimento para Desenvolvedor de Software Júnior, atuando diretamente na evolução do produto, manutenção em produção e suporte técnico avançado.
-
-Escopo de Atuação
-
-Desenvolveu novas funcionalidades para o sistema de varejo da empresa.
-
-Corrigiu bugs no backend, no banco de dados e nas interfaces web.
-
-Prestou suporte N3 para incidentes relatados por clientes.
-
-Analisou regras de negócio e o comportamento das aplicações existentes.
-
-Manteve rotinas de banco de dados SQL e Oracle.
-
-Contribuiu com interfaces frontend utilizando HTML e CSS.
-
-Competências
-
-
+![C#](https://img.shields.io/badge/C%23-6D28D9?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET%20Core-4F46E5?style=flat-square&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-7C3AED?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-312E81?style=flat-square&logo=oracle&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-6D28D9?style=flat-square&logo=microsoftazure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-4F46E5?style=flat-square&logo=kubernetes&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-7C3AED?style=flat-square&logo=fastapi&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-312E81?style=flat-square&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=flat-square&logo=github&logoColor=white)
 
 <br/>
 
-Analista de Desenvolvimento · PDA Soluções
+### Desenvolvedor de Software Júnior · PDA Soluções
 
-Março de 2020 — Dezembro de 2020
+**Janeiro de 2021 — Fevereiro de 2023**
 
-Contratado como Analista de Desenvolvimento após concluir o programa de estágio, atuando no suporte aos clientes e na manutenção de aplicações corporativas.
+Promovido de Analista de Desenvolvimento para Desenvolvedor Júnior, atuando diretamente na evolução do produto, manutenção em produção e suporte técnico avançado.
 
-Escopo de Atuação
+#### Escopo de Trabalho
 
-Investigou o código-fonte e identificou defeitos no software.
+- Desenvolveu novas funcionalidades para o software de varejo da empresa.
+- Corrigiu bugs em backend, banco de dados e interfaces web.
+- Prestou suporte N3 para incidentes reportados por clientes.
+- Analisou regras de negócio e comportamento de aplicações existentes.
+- Manteve rotinas de banco de dados SQL e Oracle.
+- Contribuiu com interfaces frontend usando HTML e CSS.
 
-Corrigiu bugs em aplicações corporativas.
+#### Habilidades
 
-Criou documentação técnica e evidências de testes.
-
-Comunicou-se com clientes sobre incidentes e respectivas soluções.
-
-Prestou suporte a operações em bancos de dados SQL e Oracle.
-
-Participou dos fluxos de manutenção e suporte de software.
-
-Competências
-
-
+![C#](https://img.shields.io/badge/C%23-6D28D9?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET%20Core-4F46E5?style=flat-square&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-7C3AED?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-312E81?style=flat-square&logo=oracle&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-6D28D9?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-4F46E5?style=flat-square&logo=css3&logoColor=white)
 
 <br/>
 
-Estagiário de Desenvolvimento de Software · PDA Soluções
+### Analista de Desenvolvimento · PDA Soluções
 
-Novembro de 2019 — Fevereiro de 2020
+**Março de 2020 — Dezembro de 2020**
 
-Concluiu um estágio de quatro meses em desenvolvimento, com foco nos fundamentos de engenharia de software e no fluxo de prestação de serviços da empresa.
+Contratado como Analista de Desenvolvimento em regime integral após concluir o programa de estágio, dando suporte a clientes e mantendo aplicações corporativas.
 
-Escopo de Atuação
+#### Escopo de Trabalho
 
-Estudou os processos e as tecnologias de desenvolvimento da empresa.
+- Investigou código-fonte e identificou defeitos de software.
+- Corrigiu bugs em aplicações corporativas.
+- Criou documentação técnica e evidências de testes.
+- Comunicou-se com clientes sobre incidentes e resoluções.
+- Deu suporte a operações de banco de dados SQL e Oracle.
+- Participou de fluxos de manutenção e suporte de software.
 
-Produziu relatórios técnicos descrevendo as atividades de desenvolvimento.
+#### Habilidades
 
-Aprendeu os fundamentos de C# e .NET Core.
+![C#](https://img.shields.io/badge/C%23-6D28D9?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET%20Core-4F46E5?style=flat-square&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-7C3AED?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-312E81?style=flat-square&logo=oracle&logoColor=white)
 
-Apoiou atividades internas de aprendizado e análise de software.
+<br/>
 
-Desenvolveu conhecimentos fundamentais sobre fluxos de desenvolvimento corporativo.
+### Estagiário de Desenvolvimento de Software · PDA Soluções
 
-Competências
+**Novembro de 2019 — Fevereiro de 2020**
 
+Concluiu um estágio de quatro meses em desenvolvimento, com foco em fundamentos de engenharia de software e no fluxo de entrega de serviços da empresa.
 
+#### Escopo de Trabalho
 
-Conquistas
+- Estudou os processos e tecnologias de desenvolvimento da empresa.
+- Produziu relatórios técnicos descrevendo atividades de desenvolvimento.
+- Aprendeu os fundamentos de C# e .NET Core.
+- Apoiou atividades internas de aprendizado e análise de software.
+- Construiu conhecimento fundamental sobre fluxos de desenvolvimento corporativo.
+
+#### Habilidades
+
+![C#](https://img.shields.io/badge/C%23-6D28D9?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET%20Core-4F46E5?style=flat-square&logo=dotnet&logoColor=white)
+
+---
+
+## Conquistas
 
 <div align="center">
 
-Reconhecimento
-
-Detalhes
-
-Evolução Profissional
-
-Evolução de Estagiário de Desenvolvimento de Software para Desenvolvedor de Software Pleno na PDA Soluções.
-
-Impacto em Sistemas Corporativos
-
-Contribuição em sistemas utilizados por mais de 50 clientes, com operações entre aproximadamente 30 e 150 filiais.
-
-Liderança Técnica
-
-Responsável pela coordenação das atividades de suporte da área de varejo da empresa.
-
-Sistemas Críticos para o Negócio
-
-Desenvolvimento e manutenção de sistemas essenciais para inventário, recebimento, faturamento, precificação e operações de estoque.
-
-Compartilhamento de Conhecimento
-
-Produção de documentação técnica para apoiar desenvolvedores e melhorar os fluxos internos de engenharia.
+| Reconhecimento | Detalhes |
+|:---:|:---|
+| **Progressão de Carreira** | Progrediu de Estagiário de Desenvolvimento de Software para Desenvolvedor de Software Pleno na PDA Soluções. |
+| **Impacto em Software Corporativo** | Contribuiu para software usado por mais de 50 clientes, com operações variando de aproximadamente 30 a 150 filiais. |
+| **Liderança Técnica** | Responsável por coordenar as atividades de suporte da divisão de varejo da empresa. |
+| **Sistemas Críticos de Negócio** | Desenvolve e mantém sistemas essenciais para operações de estoque, recebimento, faturamento, precificação e controle de estoque. |
+| **Compartilhamento de Conhecimento** | Produz documentação técnica para apoiar desenvolvedores e melhorar os fluxos internos de engenharia. |
 
 </div>
 
-Certificações
+---
+
+## Certificações
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/STATUS-Construindo%20meu%20roteiro%20de%20certifica%C3%A7%C3%B5es-6D28D9?style=for-the-badge&logo=bookstack&logoColor=white" alt="Roteiro de certificações" />
+<img src="https://img.shields.io/badge/STATUS-Construindo%20minha%20trilha%20de%20certifica%C3%A7%C3%B5es-6D28D9?style=for-the-badge&logo=bookstack&logoColor=white" alt="Trilha de certificações" />
 
 </div>
 
-Métricas do GitHub
+---
+
+
+## Análises do GitHub
 
 <div align="center">
 
@@ -410,39 +332,46 @@ Métricas do GitHub
 
 <img height="180em" src="https://streak-stats.demolab.com?user=vRaphael&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B5CF6" alt="Sequência de contribuições de Victor Raphael" />
 
-Atividade de Contribuições
+---
+
+## Atividade de Contribuição
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vRaphael&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&area_color=4F46E5&hide_border=true&custom_title=Atividade%20de%20Contribui%C3%A7%C3%B5es%20de%20Victor%20Raphael" alt="Gráfico de contribuições de Victor Raphael" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vRaphael&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&area_color=4F46E5&hide_border=true&custom_title=Atividade%20de%20Contribui%C3%A7%C3%A3o%20de%20Victor%20Raphael" alt="Gráfico de contribuições de Victor Raphael" />
 
 </div>
 
-Cobrinha de Contribuições
+---
+
+## Cobra de Contribuições
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg">
-  <img alt="Animação da cobrinha de contribuições do GitHub" src="./assets/github-contribution-grid-snake.svg">
+  <img alt="Animação da cobra de contribuições do GitHub" src="./assets/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
 
-Foco Atual
+---
 
+## Foco Atual
+
+```yaml
 aprendendo:
-  - Grandes Modelos de Linguagem
-  - Geração Aumentada por Recuperação
-  - Protocolo de Contexto de Modelo
+  - Large Language Models
+  - Retrieval-Augmented Generation
+  - Model Context Protocol
   - Inteligência Artificial
-  - Desenvolvimento Orientado por Especificações
+  - Spec-Driven Development
 
 construindo:
-  - SaaS multi-tenant para gestão financeira
-  - Aplicações corporativas com inteligência artificial
-  - Soluções escaláveis para gestão empresarial
+  - SaaS multi-tenant de gestão financeira
+  - Aplicações corporativas potencializadas por IA
+  - Soluções escaláveis de gestão de negócio
 
 explorando:
   - Segurança web
@@ -453,10 +382,10 @@ explorando:
 aberto_a:
   - Novas tecnologias
   - Desafios de engenharia de software
-  - Desenvolvimento de produtos com IA
+  - Desenvolvimento de produtos potencializados por IA
   - Oportunidades em SaaS corporativo
-
-Contato
+```
+## Conecte-se
 
 <div align="center">
 
@@ -478,9 +407,11 @@ Contato
 
 </div>
 
+---
+
 <div align="center">
 
-“Desenvolvendo software confiável que transforma operações complexas em produtos digitais escaláveis.”
+### “Engenheirando software confiável que transforma operações de negócio complexas em produtos digitais escaláveis.”
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:312E81,50:6D28D9,100:7C3AED" alt="Rodapé" />
 
