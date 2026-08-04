@@ -39,33 +39,33 @@
 
 </div>
 
-About Me
+---
 
-I am a Mid-Level Software Developer at PDA Soluções with more than six years of professional experience building, maintaining and evolving enterprise software for the retail industry.
+## About Me
+
+I am a **Mid-Level Software Developer at PDA Soluções** with more than six years of professional experience building, maintaining and evolving enterprise software for the retail industry.
 
 My career has progressed from a development internship to a mid-level engineering position, giving me experience across the complete software lifecycle: requirements analysis, implementation, debugging, testing, production support, technical documentation and communication with customers and internal teams.
 
-My core expertise is centered on C#, .NET, SQL, Oracle and full stack product development, with hands-on experience creating business-critical solutions for inventory management, receiving operations, pricing, billing, stock control, picking and system integrations.
+My core expertise is centered on **C#, .NET, SQL, Oracle and full stack product development**, with hands-on experience creating business-critical solutions for inventory management, receiving operations, pricing, billing, stock control, picking and system integrations.
 
-I approach software development with a product engineering mindset, balancing maintainability, performance, security, usability and business impact. I also contribute to technical leadership by supporting other developers, producing internal documentation and coordinating the support operation for the company's retail division.
+I approach software development with a **product engineering mindset**, balancing maintainability, performance, security, usability and business impact. I also contribute to technical leadership by supporting other developers, producing internal documentation and coordinating the support operation for the company's retail division.
 
-I am currently expanding my expertise in Artificial Intelligence and AI-assisted software engineering, with a focus on LLMs, Retrieval-Augmented Generation, Model Context Protocol and Spec-Driven Development.
+I am currently expanding my expertise in **Artificial Intelligence and AI-assisted software engineering**, with a focus on **LLMs, Retrieval-Augmented Generation, Model Context Protocol and Spec-Driven Development**.
 
-Open To
+### Open To
 
-Software engineering and full stack development opportunities
+- Software engineering and full stack development opportunities
+- Enterprise systems and SaaS product development
+- AI-powered applications and intelligent automation
+- Technical challenges involving scalability, architecture and integrations
+- Collaboration with product-oriented engineering teams
 
-Enterprise systems and SaaS product development
+---
 
-AI-powered applications and intelligent automation
+## Tech Stack
 
-Technical challenges involving scalability, architecture and integrations
-
-Collaboration with product-oriented engineering teams
-
-Tech Stack
-
-Programming Languages
+### Programming Languages
 
 <div align="center">
 
@@ -77,7 +77,7 @@ Programming Languages
 
 </div>
 
-Spoken Languages
+### Spoken Languages
 
 <div align="center">
 
@@ -87,7 +87,7 @@ Spoken Languages
 
 </div>
 
-Frontend
+### Frontend
 
 <div align="center">
 
@@ -95,7 +95,7 @@ Frontend
 
 </div>
 
-Backend & Databases
+### Backend & Databases
 
 <div align="center">
 
@@ -109,7 +109,7 @@ Backend & Databases
 
 </div>
 
-Cloud, DevOps & Tooling
+### Cloud, DevOps & Tooling
 
 <div align="center">
 
@@ -122,51 +122,22 @@ Cloud, DevOps & Tooling
 
 </div>
 
-AI / ML Expertise
+---
 
-Domain
+## AI / ML Expertise
 
-Proficiency
+| Domain | Proficiency | Details |
+|:---|:---:|:---|
+| Large Language Models | Developing | Studying LLM architecture, integration patterns and practical applications in enterprise software. |
+| Retrieval-Augmented Generation | Developing | Exploring knowledge retrieval, contextual grounding and AI responses based on private business data. |
+| Model Context Protocol | Developing | Building knowledge around MCP servers, tools, resources and AI-to-system integration. |
+| AI-Assisted Engineering | Intermediate | Applying AI tools to analysis, documentation, architecture, debugging and development workflows. |
+| Spec-Driven Development | Developing | Exploring structured specifications to guide AI-assisted implementation and reduce ambiguity. |
+| Intelligent SaaS Products | Intermediate | Designing a multi-tenant financial management platform with integrated artificial intelligence. |
 
-Details
+---
 
-Large Language Models
-
-Developing
-
-Studying LLM architecture, integration patterns and practical applications in enterprise software.
-
-Retrieval-Augmented Generation
-
-Developing
-
-Exploring knowledge retrieval, contextual grounding and AI responses based on private business data.
-
-Model Context Protocol
-
-Developing
-
-Building knowledge around MCP servers, tools, resources and AI-to-system integration.
-
-AI-Assisted Engineering
-
-Intermediate
-
-Applying AI tools to analysis, documentation, architecture, debugging and development workflows.
-
-Spec-Driven Development
-
-Developing
-
-Exploring structured specifications to guide AI-assisted implementation and reduce ambiguity.
-
-Intelligent SaaS Products
-
-Intermediate
-
-Designing a multi-tenant financial management platform with integrated artificial intelligence.
-
-Featured Projects
+## Featured Projects
 
 <details>
 <summary><strong>SaaS WMS — Enterprise Retail Management Platform</strong></summary>
@@ -175,35 +146,16 @@ Featured Projects
 
 A business-critical warehouse and retail operations platform developed to support inventory, receiving, price reduction, billing, stock management, picking and integrations between enterprise systems.
 
-Category
+| Category | Details |
+|:---|:---|
+| **Stack** | React, C#, .NET Core, SQL |
+| **Scale** | More than 50 customers, typically operating between 30 and 150 branches |
+| **Performance** | High-performance workflows designed for large operational volumes |
+| **Security** | Enterprise-grade access control, data validation and protected business operations |
+| **Impact** | Essential platform for inventory and retail operation management, established as a market reference |
+| **Repository** | Private commercial repository |
 
-Details
-
-Stack
-
-React, C#, .NET Core, SQL
-
-Scale
-
-More than 50 customers, typically operating between 30 and 150 branches
-
-Performance
-
-High-performance workflows designed for large operational volumes
-
-Security
-
-Enterprise-grade access control, data validation and protected business operations
-
-Impact
-
-Essential platform for inventory and retail operation management, established as a market reference
-
-Repository
-
-Private commercial repository
-
-Engineering Overview
+### Engineering Overview
 
 The platform supports complex retail workflows where availability, data consistency and operational reliability are essential. Its modules cover multiple stages of the supply chain and store operation lifecycle, connecting inventory data, receiving processes, pricing operations, billing routines, stock management and picking activities.
 
@@ -220,35 +172,16 @@ The project requires continuous attention to scalability, business rules, SQL pe
 
 A multi-tenant SaaS platform under development for centralized corporate financial management, enhanced by artificial intelligence to assist with analysis, automation and business decision-making.
 
-Category
+| Category | Details |
+|:---|:---|
+| **Stack** | Full stack architecture, APIs, relational databases and AI integrations |
+| **Scale** | Designed for multiple companies, isolated tenants and scalable business operations |
+| **Performance** | Architecture focused on efficient data access and sustainable application growth |
+| **Security** | Tenant isolation, controlled authorization and secure handling of financial information |
+| **Impact** | Intended to reduce manual financial operations and provide intelligent business insights |
+| **Repository** | Private project |
 
-Details
-
-Stack
-
-Full stack architecture, APIs, relational databases and AI integrations
-
-Scale
-
-Designed for multiple companies, isolated tenants and scalable business operations
-
-Performance
-
-Architecture focused on efficient data access and sustainable application growth
-
-Security
-
-Tenant isolation, controlled authorization and secure handling of financial information
-
-Impact
-
-Intended to reduce manual financial operations and provide intelligent business insights
-
-Repository
-
-Private project
-
-Engineering Overview
+### Engineering Overview
 
 The platform is being designed around a multi-tenant architecture capable of serving multiple organizations while maintaining secure data isolation and consistent business rules.
 
@@ -258,143 +191,129 @@ The project combines product engineering, SaaS architecture, financial workflows
 
 </details>
 
-Professional Experience
+---
 
-Mid-Level Software Developer · PDA Soluções
+## Professional Experience
 
-February 2023 — Present
+### Mid-Level Software Developer · PDA Soluções
+
+**February 2023 — Present**
 
 Promoted from Junior Developer to Mid-Level Developer, taking broader responsibility for enterprise software development, production support, technical documentation and team guidance.
 
-Scope of Work
+#### Scope of Work
 
-Develop and maintain features for enterprise retail software.
+- Develop and maintain features for enterprise retail software.
+- Investigate and resolve production bugs and complex technical incidents.
+- Provide N3 support for business-critical customer operations.
+- Create technical documentation for developers and internal teams.
+- Coordinate the support operation for the company's retail division.
+- Build and maintain REST APIs and system integrations.
+- Work with cloud infrastructure and containerized environments.
+- Support systems involving inventory, receiving, billing, pricing and stock management.
 
-Investigate and resolve production bugs and complex technical incidents.
+#### Skills
 
-Provide N3 support for business-critical customer operations.
-
-Create technical documentation for developers and internal teams.
-
-Coordinate the support operation for the company's retail division.
-
-Build and maintain REST APIs and system integrations.
-
-Work with cloud infrastructure and containerized environments.
-
-Support systems involving inventory, receiving, billing, pricing and stock management.
-
-Skills
-
-
+![C#](https://img.shields.io/badge/C%23-6D28D9?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET%20Core-4F46E5?style=flat-square&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-7C3AED?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-312E81?style=flat-square&logo=oracle&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-6D28D9?style=flat-square&logo=microsoftazure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-4F46E5?style=flat-square&logo=kubernetes&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-7C3AED?style=flat-square&logo=fastapi&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-312E81?style=flat-square&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=flat-square&logo=github&logoColor=white)
 
 <br/>
 
-Junior Software Developer · PDA Soluções
+### Junior Software Developer · PDA Soluções
 
-January 2021 — February 2023
+**January 2021 — February 2023**
 
 Promoted from Development Analyst to Junior Software Developer, working directly on product evolution, production maintenance and advanced technical support.
 
-Scope of Work
+#### Scope of Work
 
-Developed new features for the company's retail software.
+- Developed new features for the company's retail software.
+- Corrected bugs across backend, database and web interfaces.
+- Provided N3 support for customer-reported incidents.
+- Analyzed business rules and existing application behavior.
+- Maintained SQL and Oracle database routines.
+- Contributed to frontend interfaces using HTML and CSS.
 
-Corrected bugs across backend, database and web interfaces.
+#### Skills
 
-Provided N3 support for customer-reported incidents.
-
-Analyzed business rules and existing application behavior.
-
-Maintained SQL and Oracle database routines.
-
-Contributed to frontend interfaces using HTML and CSS.
-
-Skills
-
-
+![C#](https://img.shields.io/badge/C%23-6D28D9?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET%20Core-4F46E5?style=flat-square&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-7C3AED?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-312E81?style=flat-square&logo=oracle&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-6D28D9?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-4F46E5?style=flat-square&logo=css3&logoColor=white)
 
 <br/>
 
-Development Analyst · PDA Soluções
+### Development Analyst · PDA Soluções
 
-March 2020 — December 2020
+**March 2020 — December 2020**
 
 Hired as a full-time Development Analyst after completing the internship program, supporting customers and maintaining enterprise applications.
 
-Scope of Work
+#### Scope of Work
 
-Investigated source code and identified software defects.
+- Investigated source code and identified software defects.
+- Corrected bugs in enterprise applications.
+- Created technical documentation and testing evidence.
+- Communicated with customers regarding incidents and resolutions.
+- Supported SQL and Oracle database operations.
+- Participated in software maintenance and support workflows.
 
-Corrected bugs in enterprise applications.
+#### Skills
 
-Created technical documentation and testing evidence.
-
-Communicated with customers regarding incidents and resolutions.
-
-Supported SQL and Oracle database operations.
-
-Participated in software maintenance and support workflows.
-
-Skills
-
-
+![C#](https://img.shields.io/badge/C%23-6D28D9?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET%20Core-4F46E5?style=flat-square&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-7C3AED?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-312E81?style=flat-square&logo=oracle&logoColor=white)
 
 <br/>
 
-Software Development Intern · PDA Soluções
+### Software Development Intern · PDA Soluções
 
-November 2019 — February 2020
+**November 2019 — February 2020**
 
 Completed a four-month development internship focused on software engineering fundamentals and the company's service delivery workflow.
 
-Scope of Work
+#### Scope of Work
 
-Studied the company's development processes and technologies.
+- Studied the company's development processes and technologies.
+- Produced technical reports describing development activities.
+- Learned the fundamentals of C# and .NET Core.
+- Supported internal learning and software analysis activities.
+- Built foundational knowledge of enterprise development workflows.
 
-Produced technical reports describing development activities.
+#### Skills
 
-Learned the fundamentals of C# and .NET Core.
+![C#](https://img.shields.io/badge/C%23-6D28D9?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET%20Core-4F46E5?style=flat-square&logo=dotnet&logoColor=white)
 
-Supported internal learning and software analysis activities.
+---
 
-Built foundational knowledge of enterprise development workflows.
-
-Skills
-
-
-
-Achievements
+## Achievements
 
 <div align="center">
 
-Recognition
-
-Details
-
-Career Progression
-
-Progressed from Software Development Intern to Mid-Level Software Developer at PDA Soluções.
-
-Enterprise Software Impact
-
-Contributed to software used by more than 50 customers with operations ranging from approximately 30 to 150 branches.
-
-Technical Leadership
-
-Responsible for coordinating support activities for the company's retail division.
-
-Business-Critical Systems
-
-Develops and maintains systems essential to inventory, receiving, billing, pricing and stock operations.
-
-Knowledge Sharing
-
-Produces technical documentation to support developers and improve internal engineering workflows.
+| Recognition | Details |
+|:---:|:---|
+| **Career Progression** | Progressed from Software Development Intern to Mid-Level Software Developer at PDA Soluções. |
+| **Enterprise Software Impact** | Contributed to software used by more than 50 customers with operations ranging from approximately 30 to 150 branches. |
+| **Technical Leadership** | Responsible for coordinating support activities for the company's retail division. |
+| **Business-Critical Systems** | Develops and maintains systems essential to inventory, receiving, billing, pricing and stock operations. |
+| **Knowledge Sharing** | Produces technical documentation to support developers and improve internal engineering workflows. |
 
 </div>
 
-Certifications
+---
+
+## Certifications
 
 <div align="center">
 
@@ -402,25 +321,30 @@ Certifications
 
 </div>
 
-GitHub Insights
+---
+
+
+## GitHub Analytics
 
 <div align="center">
 
-<img width="49%" src="./assets/github-stats.svg" alt="Victor Raphael GitHub Stats" />
-<img width="49%" src="https://streak-stats.demolab.com?user=vRaphael&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B5CF6" alt="Victor Raphael GitHub Streak" />
+<img height="180em" src="./assets/github-stats.svg" alt="Victor Raphael GitHub Stats" />
 
-</div>
+<img height="180em" src="https://streak-stats.demolab.com?user=vRaphael&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B5CF6" alt="Victor Raphael GitHub Streak" />
 
-<br/>
+---
+
+## Contribution Activity
 
 <div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vRaphael&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&area_color=4F46E5&hide_border=true&custom_title=Victor%20Raphael%27s%20Contribution%20Activity" alt="Victor Raphael Contribution Graph" />
 
 </div>
+
 ---
 
-Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
@@ -432,8 +356,11 @@ Contribution Snake
 
 </div>
 
-Current Focus
+---
 
+## Current Focus
+
+```yaml
 learning:
   - Large Language Models
   - Retrieval-Augmented Generation
@@ -457,8 +384,8 @@ open_to:
   - Software engineering challenges
   - AI-powered product development
   - Enterprise SaaS opportunities
-
-Connect
+```
+## Connect
 
 <div align="center">
 
@@ -480,9 +407,11 @@ Connect
 
 </div>
 
+---
+
 <div align="center">
 
-“Engineering reliable software that transforms complex business operations into scalable digital products.”
+### “Engineering reliable software that transforms complex business operations into scalable digital products.”
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:312E81,50:6D28D9,100:7C3AED" alt="Footer" />
 
